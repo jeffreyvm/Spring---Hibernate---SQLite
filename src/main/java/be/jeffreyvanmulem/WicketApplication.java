@@ -1,5 +1,6 @@
 package be.jeffreyvanmulem;
 
+import be.jeffreyvanmulem.controller.HomePage;
 import org.apache.wicket.protocol.http.WebApplication;
 import org.apache.wicket.spring.injection.annot.SpringComponentInjector;
 
